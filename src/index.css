@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: #111;
+  color: #400358;
   background-color: #fff;
 
   font-synthesis: none;
@@ -35,7 +35,7 @@ button {
   font-family: inherit;
   background-color: #93c68f;
   cursor: pointer;
-  transition: border-color 0.25s;
+  transition: border-color #693742 0.25s;
 }
 ul {
   list-style-type: none;
